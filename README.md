@@ -1,0 +1,4 @@
+shop
+==========
+
+Modules for shops
