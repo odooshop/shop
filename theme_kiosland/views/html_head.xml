@@ -4,6 +4,7 @@
     	<template id="odoospain_html_head" inherit_id="website.layout" name="Kiosland html header">
     	    <xpath expr="//head" position="inside">
     	        <link href="/theme_kiosland/static/src/img/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+				<link href="/theme_kiosland/static/src/css/kiosland.css" rel="stylesheet"/>    	        
     	    </xpath>
     	</template>
     
